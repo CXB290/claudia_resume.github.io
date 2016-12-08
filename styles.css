@@ -8,3 +8,9 @@
 .center {
 	text-align: center;
 }
+
+hr {
+	color: black; /*works in Chrome and Safari */
+	border-color: black; /*works in Firefox and Opera*/
+	background-color: black; /*color works in IE7+*/
+}
