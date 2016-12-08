@@ -1,0 +1,10 @@
+.black-link {
+	font-weight: 600;
+	text-transform: uppercase;
+	padding-right: 50px;
+	color: #000;
+}
+
+.center {
+	text-align: center;
+}
