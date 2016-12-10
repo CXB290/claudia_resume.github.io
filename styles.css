@@ -10,7 +10,7 @@
 }
 
 .mleft45px {
-	margin-left: 45px;
+	margin-left: 45px !important;
 }
 
 hr {
@@ -20,7 +20,7 @@ hr {
 }
 
 a:hover { 
-  color: red;
+  color: red !important;
 }
 
 body {
